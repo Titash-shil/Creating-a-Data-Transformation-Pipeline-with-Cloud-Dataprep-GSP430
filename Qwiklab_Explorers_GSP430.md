@@ -9,11 +9,11 @@
 
  - ### Copy & Run the Commands in Cloud Shell Terminal :
 ```
-curl -LO raw.githubusercontent.com/Titash-shil/Continuous-Delivery-with-Google-Cloud-Deploy-GSP1079-Updated/refs/heads/main/qwiklab_explorers_gsp1079.sh
+curl -LO raw.githubusercontent.com/Titash-shil/Creating-a-Data-Transformation-Pipeline-with-Cloud-Dataprep-GSP430/refs/heads/main/qwiklab_explorers_gsp430.sh
 
-sudo chmod +x qwiklab_explorers_gsp1079.sh
+sudo chmod +x qwiklab_explorers_gsp430.sh
 
-./qwiklab_explorers_gsp1079.sh
+./qwiklab_explorers_gsp430.sh
 ```
 ### Go to Dataprep from: [here](https://console.cloud.google.com/dataprep)
 
