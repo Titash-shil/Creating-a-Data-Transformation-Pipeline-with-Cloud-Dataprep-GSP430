@@ -15,11 +15,11 @@ sudo chmod +x qwiklab_explorers_gsp430.sh
 
 ./qwiklab_explorers_gsp430.sh
 ```
-### Go to Dataprep from: [here](https://console.cloud.google.com/dataprep)
+- ### Go to Dataprep from: [here](https://console.cloud.google.com/dataprep)
 
-### Download File from: [here](https://github.com/QUICK-GCP-LAB/2-Minutes-Labs-Solutions/raw/main/Creating%20a%20Data%20Transformation%20Pipeline%20with%20Cloud%20Dataprep/flow_Ecommerce_Analytics_Pipeline.zip)
+- ### Download File from: [here](https://github.com/Titash-shil/Creating-a-Data-Transformation-Pipeline-with-Cloud-Dataprep-GSP430/raw/refs/heads/main/flow_Ecommerce_Analytics_Pipeline.zip)
 
-### NOW FOLLOW THE NEXT STEPS CAREFULLY FROM THE VIDEO
+- ### NOW FOLLOW THE NEXT STEPS CAREFULLY FROM THE VIDEO
 ---
 
 ## Congratulations ..!!🎉  You completed the lab shortly..😃💯
